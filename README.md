@@ -1,2 +1,2 @@
 # CheckIgnore
-サンプルPush
+サンプルPush。コミット確認。
